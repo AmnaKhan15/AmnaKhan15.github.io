@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>Amna Khan</h1>
       <div className="card">
-      <h1>I am building my portfolio</h1>
+      <h1>Looking for Approval</h1>
         
         
       </div>
