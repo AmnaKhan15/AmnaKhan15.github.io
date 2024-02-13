@@ -19,10 +19,12 @@ function App() {
       <h1>Amna Khan</h1>
       <div className="card">
       <h1>Looking for Approval</h1>
-        
+      <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
         
       </div>
-     
+      
     </>
   )
 }
